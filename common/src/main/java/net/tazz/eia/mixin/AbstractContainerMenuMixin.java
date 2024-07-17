@@ -1,4 +1,4 @@
-package xyz.trivaxy.tia.mixin;
+package net.tazz.eia.mixin;
 
 import net.minecraft.core.NonNullList;
 import net.minecraft.world.entity.player.Player;
@@ -11,7 +11,7 @@ import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
-import xyz.trivaxy.tia.MixinInjects;
+import net.tazz.eia.MixinInjects;
 
 @Mixin(AbstractContainerMenu.class)
 public class AbstractContainerMenuMixin {

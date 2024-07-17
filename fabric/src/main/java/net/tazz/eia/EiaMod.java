@@ -1,8 +1,8 @@
-package xyz.trivaxy.tia;
+package net.tazz.eia;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class TiaMod implements ClientModInitializer {
+public class EiaMod implements ClientModInitializer {
     
     @Override
     public void onInitializeClient() {

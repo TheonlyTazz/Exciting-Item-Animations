@@ -16,7 +16,7 @@
     "environment": "client",
     "entrypoints": {
         "client": [
-            "xyz.trivaxy.tia.TiaMod"
+            "net.tazz.eia.EiaMod"
         ]
     },
     "mixins": [

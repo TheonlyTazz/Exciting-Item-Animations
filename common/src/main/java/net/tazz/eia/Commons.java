@@ -1,4 +1,4 @@
-package xyz.trivaxy.tia;
+package net.tazz.eia;
 
 
 import org.slf4j.Logger;

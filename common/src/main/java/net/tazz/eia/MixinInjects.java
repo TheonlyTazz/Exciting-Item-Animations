@@ -1,4 +1,4 @@
-package xyz.trivaxy.tia;
+package net.tazz.eia;
 
 import com.mojang.blaze3d.vertex.PoseStack;
 import net.minecraft.client.Minecraft;

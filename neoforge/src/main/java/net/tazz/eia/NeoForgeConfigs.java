@@ -1,4 +1,4 @@
-package xyz.trivaxy.tia;
+package net.tazz.eia;
 
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;

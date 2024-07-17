@@ -1,4 +1,4 @@
-package xyz.trivaxy.tia;
+package net.tazz.eia;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

@@ -1,4 +1,4 @@
-package xyz.trivaxy.tia.mixin;
+package net.tazz.eia.mixin;
 
 import com.mojang.blaze3d.vertex.PoseStack;
 import net.minecraft.client.gui.GuiGraphics;
@@ -11,7 +11,7 @@ import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
-import xyz.trivaxy.tia.MixinInjects;
+import net.tazz.eia.MixinInjects;
 
 @Mixin(GuiGraphics.class)
 public class GuiGraphicsMixin {

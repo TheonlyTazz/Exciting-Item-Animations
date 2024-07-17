@@ -1,8 +1,8 @@
-package xyz.trivaxy.tia.mixin;
+package net.tazz.eia.mixin;
 
 import net.minecraft.world.inventory.Slot;
 import org.spongepowered.asm.mixin.Mixin;
-import xyz.trivaxy.tia.Animated;
+import net.tazz.eia.Animated;
 
 @Mixin(Slot.class)
 public class SlotMixin implements Animated {
