@@ -1,4 +1,4 @@
-package xyz.trivaxy.tia;
+package net.tazz.eia;
 
 public interface Animated {
     float getAnimationProgress();

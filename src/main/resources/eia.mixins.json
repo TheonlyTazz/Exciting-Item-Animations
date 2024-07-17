@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "xyz.trivaxy.tia.mixin",
+  "package": "net.tazz.eia.mixin",
   "compatibilityLevel": "JAVA_17",
   "refmap": "tia.refmap.json",
   "mixins": [

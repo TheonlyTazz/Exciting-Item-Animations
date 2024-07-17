@@ -1,8 +1,8 @@
-package xyz.trivaxy.tia;
+package net.tazz.eia;
 
 import net.minecraftforge.common.ForgeConfigSpec;
 
-public class TiaConfig {
+public class EiaConfig {
     public static final ForgeConfigSpec SPEC;
 
     public static ForgeConfigSpec.DoubleValue animationSpeed;
@@ -15,7 +15,7 @@ public class TiaConfig {
     }
 
     private static void setupConfig(ForgeConfigSpec.Builder builder) {
-        builder.comment("Configuration settings for Tia");
+        builder.comment("Configuration settings for Eia");
         builder.push("General options");
 
         animationSpeed = builder
