@@ -1,12 +1,12 @@
-# Tiny Item Animations
+# Exciting Item Animations
 
-A Minecraft mod that adds a cute little animation when you pick up items with your mouse.
+A Minecraft mod where items inside inventories get pickup animations. Exciting!
 
-This mod is client-side, and supports NeoForge and Fabric (and likely Quilt, but I don't test it there).
+This mod is client-side, and supports NeoForge and Fabric.
 
 ## Installation
 
-Grab the mod from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tiny-item-animations) or [Modrinth](https://modrinth.com/mod/tiny-item-animations).
+SoonTM
 
 ## Issues
 
